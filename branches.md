@@ -2,3 +2,6 @@
 ```bash
 git checkout -b tmp-a
 ```
+
+列出所有本地和远程分支
+git branch -av
